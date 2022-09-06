@@ -1,0 +1,15 @@
+# FTPManager
+FTPManager 8.2 Local File inclusion (ftp) python
+
+
+usage: FTPManager.py [-h] --target TARGET [--file FILE]
+
+FTPManager 8.2 Directory Traversal by chokri hammedi
+
+optional arguments:
+  -h, --help       show this help message and exit
+  --target TARGET  Target IP
+  --file FILE      File To Open eg: etc/passwd
+  
+![image](https://user-images.githubusercontent.com/52697989/188726724-161a5220-bf03-4abf-8efb-74be08f8f9f5.png)
+
